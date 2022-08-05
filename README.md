@@ -1,5 +1,4 @@
 `Rutuja Musale`
-## 𝐏𝐨𝐫𝐭𝐅𝐨𝐥𝐢𝐨 - 𝐑𝐮𝐭𝐮𝐣𝐚 𝐌𝐮𝐬𝐚𝐥𝐞
 
 
 
@@ -139,3 +138,6 @@ https://user-images.githubusercontent.com/69392848/181299771-720ba3ca-131a-4fcc-
 : LinkedIn : https://www.linkedin.com/in/rutujamusale/
 : Github   : https://github.com/rutujamusale  
 ```
+## ⁍ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujamusale&show_icons=true&locale=en&layout=compact" alt="rutujamusale" /></p>
